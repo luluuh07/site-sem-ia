@@ -1,2 +1,2 @@
 # site-sem-ia
-um site em html que fiz sem inteligência artificial (o começo de tudo!?)
+Um site em html que fiz sem uso de inteligência artificial (o começo de tudo!?)
